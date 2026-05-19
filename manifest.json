@@ -1,20 +1,31 @@
 {
-  "name": "veltrix ai",
-  "short_name": "veltrix ai",
-  "start_url": "https://veltrixai.blogspot.com/",
+  "name": "Veltrix AI",
+  "short_name": "VeltrixAI",
+  "start_url": "/",
   "display": "standalone",
   "background_color": "#ffffff",
-  "theme_color": "#000000",
+  "theme_color": "#111827",
+  "orientation": "portrait",
   "icons": [
     {
-      "src": "https://veltrixai.blogspot.com/favicon.ico",
+      "src": "icons/android-chrome-192x192.png",
       "sizes": "192x192",
-      "type": "image/x-icon"
+      "type": "image/png"
     },
     {
-      "src": "https://veltrixai.blogspot.com/favicon.ico",
+      "src": "icons/android-chrome-512x512.png",
       "sizes": "512x512",
-      "type": "image/x-icon"
+      "type": "image/png"
+    },
+    {
+      "src": "icons/favicon-16x16.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    },
+     {
+      "src": "icons/favicon-32x32.png",
+      "sizes": "32x32",
+      "type": "image/png"
     }
   ]
 }
