@@ -1,7 +1,7 @@
 {
   "name": "Veltrix AI",
   "short_name": "VeltrixAI",
-  "start_url": "/",
+  "start_url": "https://veltrixai.blogspot.com/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#111827",
